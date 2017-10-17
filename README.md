@@ -7,7 +7,7 @@ The Relationship Between Precision-Recall and ROC Curves
 Jesse Davis and Mark Goadrich
 23rd International Conference on Machine Learning (ICML), Pittsburgh, PA, USA, 26th - 28th June, 2006
 
-I received the original source from Kendrick Boyd. It has some relationship to the Roc project by kboyd & abarnard, which is released under the FreeBSD License. Please see the LICENSE.txt file and this project: https://github.com/kboyd/Roc
+I received the original source from Kendrick Boyd. It has some relationship to the Roc project by kboyd & afbarnard, which is released under the FreeBSD License. Please see the LICENSE.txt file and this project: https://github.com/kboyd/Roc
 
 Finally, my update simply prints out the P/R coordinates for the original data points. They will go into a file name ".opr".
 
